@@ -1,3 +1,7 @@
+## [1.6.0] - 2024-10-11
+
+- Created a new fork from https://github.com/SSMCD/bluetti2mqtt
+
 ## [1.4.1] - 2023-05-13
 
 - Bump bluetti_mqtt to version 0.15.0.
